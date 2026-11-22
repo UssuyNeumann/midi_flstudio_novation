@@ -1,6 +1,6 @@
 ## SCRIPT PYTHON FEITO COM IA PARA O FLSTUDIO CONTROLAR UM TECLADO MIDI DA NOVATION
 
-VIDEO DEMONSTRAÇÂO: https://www.youtube.com/watch?v=dr8jpy4Y37A
+VIDEO DEMONSTRAÇÃO: https://www.youtube.com/watch?v=dr8jpy4Y37A
 
 
 ## Mapa de Controles - Novation Launchkey Mini Mk1 (FL Studio)
