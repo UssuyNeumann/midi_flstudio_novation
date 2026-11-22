@@ -1,4 +1,9 @@
-# Mapa de Controles - Novation Launchkey Mini Mk1 (FL Studio)
+## SCRIPT PYTHON PARA DAW FLSTUDIO CONTROLAR MIDI HARDWARE DA NOVATION CRIADO COM AUXILIO DE IA
+
+VIDEO DEMONSTRAÇÂO: https://www.youtube.com/watch?v=dr8jpy4Y37A
+
+
+## Mapa de Controles - Novation Launchkey Mini Mk1 (FL Studio)
 
 ## 1. Controles Fixos (Funcionam em qualquer modo)
 * **Botão `InControl`:** Mantenha sempre **aceso** para o script controlar os LEDs e funções.
